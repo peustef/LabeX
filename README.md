@@ -1,34 +1,44 @@
-LabeX
+# <h1 align='center'> LabeX  </h1>
 
-Usuário
 
-Login: pikachijo@gmail.com
-Senha: 123456
+ ## Sobre
+### LabeX - Viagens interplanetárias para você!
+Projeto simulando um site de viagens espaciais com a intenção de praticar autenticação e hooks. Desenvolvido ao longo do curso na Labenu utilizando React.js
 
-Wireframe
+## Libs Utilizadas
+- axios
+- styled-components
+- react-router-dom
 
-https://www.figma.com/proto/ejOIqsc6vaJCt55EqJGroi/Labex-peu?node-id=1%3A8&scaling=min-zoom&page-id=0%3A1
-https://www.figma.com/file/ejOIqsc6vaJCt55EqJGroi/Untitled?node-id=0%3A1
 
-O que funciona
+## Link do Surge
+<a href="https://peu-paiva-labex.surge.sh/">peu-paiva-labex.surge.sh</a>
+- <b>Login:</b> pikachijo@gmail.com
+- <b>Senha:</b> 123456
 
-Tarefas e desafios 1 e 2 feitos.
 
-O que não funciona
 
-No geral está funcionando, mas testando no surge percebi que quando faz o login pela primeira vez e tenta acessar detalhes de alguma viagem ele retorna um erro de não autorizado. Não consegui entender o pq, mas se atualizar a página e tentar novamente para de dar esse erro e mesmo dando logout e refazendo o login o erro não volta a acontecer.
+## O que funciona
+- Tarefas propostas realizadas
 
-Além disso a componentização do projeto poderia estar melhor assim como a estilização, com arquivos separados para melhor organização.
+## Autor
 
-Link Surge
-https://peu-paiva-labex.surge.sh/
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/peustef">
+    <img src="https://avatars.githubusercontent.com/u/20777850?v=4" width="100px" alt="Imagem do perfil de Pedro Stefani Saldanha"/>
+    <br />
+    <sub><b>Pedro Stefani Saldanha</b></sub>
+     
+</table>
 
-Imagens
-Captura de tela 2021-06-11 230044
-Captura de tela 2021-06-11 230112
-Captura de tela 2021-06-11 230129
-Captura de tela 2021-06-11 230152
-Captura de tela 2021-06-11 230215
-Captura de tela 2021-06-11 230234
-Captura de tela 2021-06-11 230308
-Captura de tela 2021-06-11 230331
+
+## Imagens
+![image](https://user-images.githubusercontent.com/20777850/125103249-8b409c80-e0b2-11eb-9849-b78a3d6f7a1c.png)
+![image](https://user-images.githubusercontent.com/20777850/125103273-909de700-e0b2-11eb-9893-7149eca77774.png)
+![image](https://user-images.githubusercontent.com/20777850/125103331-a0b5c680-e0b2-11eb-9cfa-ba356d4cc7dd.png)
+![image](https://user-images.githubusercontent.com/20777850/125103350-a57a7a80-e0b2-11eb-9c85-3ab17eda278c.png)
+![image](https://user-images.githubusercontent.com/20777850/125103372-a9a69800-e0b2-11eb-88c4-1d477637f4d4.png)
+![image](https://user-images.githubusercontent.com/20777850/125103393-ae6b4c00-e0b2-11eb-8a9e-df6378895b0b.png)
+![image](https://user-images.githubusercontent.com/20777850/125103554-d8247300-e0b2-11eb-9d49-69706c396d7c.png)
+![image](https://user-images.githubusercontent.com/20777850/125103530-d064ce80-e0b2-11eb-9f6e-67df0da17122.png)
