@@ -21,6 +21,11 @@ Projeto simulando um site de viagens espaciais com a intenção de praticar aute
 ## O que funciona
 - Tarefas propostas realizadas
 
+O que não funciona
+
+Componentização do projeto poderia estar melhor assim como a estilização, com arquivos separados para melhor organização.
+Site não responsivo, somente para desktop.
+
 ## Autor
 
 <table>
